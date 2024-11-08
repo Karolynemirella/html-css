@@ -1,0 +1,90 @@
+@charset "UTF8";
+
+bory {
+    background-color: white;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header > h1 {
+    background-color: black;
+    color: white;
+    padding: 100px;
+    margin: 1px;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 > p {
+    background-color: black;
+    font-size: 0.3em;
+    color: white;
+    margin: 30px;
+
+}
+
+div.quadrado {
+  
+}
+
+section#q1 {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: justify;
+    margin: 100px;
+    padding: 100px;
+}
+
+section#q2 {
+    background-image: url('imagens/background001.jpg');
+    background-position: left center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: justify;
+    margin: 150px;
+    padding: 150px;
+}
+
+section#q3 {
+    background-image: url('imagens/background002.jpg');
+    background-position: left center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: justify;
+    margin: 150px;
+    padding: 150px;
+}
+
+
+section#q4 {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: justify;
+    margin: 100px;
+}
+
+section#q5 {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: justify;
+    margin: 100px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 1em;
+    padding: 5px;
+}
